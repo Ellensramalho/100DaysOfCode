@@ -70,3 +70,6 @@ while True:
         screen.blit(snake_skin, pos)
 
     pygame.display.update()
+
+
+#Baseando no vídeo: https://www.youtube.com/watch?v=H4TXHI9BRCQ
